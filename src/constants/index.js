@@ -154,7 +154,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/https://www.linkedin.com/in/jyotiradityasinghdeora',
+        link: 'https://www.linkedin.com/in/jyotiradityasinghdeora/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B98u8JJ54STKPad5ACH8n0A%3D%3D',
     }
 ];
 
