@@ -173,8 +173,8 @@ export const projects = [
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
+        name: 'Power BI Dashboards for Business Insights',
+        description: 'Enhanced Power BI proficiency through a PwC Switzerland job simulation, crafting dashboards for churn retention, call center operations, and diversity and inclusion, which optimized client insights through meticulous data visualization practices.',
         link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
     },
     {
