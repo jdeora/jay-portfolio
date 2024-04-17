@@ -166,8 +166,8 @@ export const projects = [
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
+        name: 'Customer Churn Analysis',
+        description: 'Engineered and fine-tuned a random forest algorithm to forecast customer churn.',
         link: 'https://github.com/adrianhajdin/threads',
     },
     {
