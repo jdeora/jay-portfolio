@@ -130,10 +130,7 @@ export const experiences = [
         iconBg: "#fbc3bc",
         date: "April 2019 - April 2020",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
+            "Initiated career in web development as an intern, gaining hands-on experience in building and testing features for e-commerce platforms using technologies such as React.js and Three.js. Collaborated with senior developers and cross-functional teams to learn best practices and contribute to the development cycle.",
         ],
     },
     
