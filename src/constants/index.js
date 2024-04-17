@@ -168,7 +168,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Customer Churn Analysis',
         description: 'Engineered and fine-tuned a random forest algorithm to forecast customer churn.',
-        link: 'https://github.com/adrianhajdin/threads',
+        link: 'https://github.com/jdeora/Customer-Churn-Analysis.git',
     },
     {
         iconUrl: car,
