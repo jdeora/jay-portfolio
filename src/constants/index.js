@@ -159,9 +159,9 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'King County House Sales',
+        description: 'Developed an interactive Tableau dashboard to visualize real estate sales data for King County.',
+        link: 'https://public.tableau.com/app/profile/jyotiraditya.singh.deora/viz/KingCountyHouseSales_17128008319570/KingCountyHouseSales?publish=yes',
     },
     {
         iconUrl: threads,
